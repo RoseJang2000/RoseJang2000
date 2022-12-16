@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-<h3 align="center">🌟Stack🌟</h3>
+<h3 align="center">🛠 Languages and Tools ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
