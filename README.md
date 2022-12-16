@@ -1,6 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=RoseJang2000&show_icons=true&count_private=true&line_height=24&theme=radical&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <br/>
 <h3 align="center">🛠 Languages and Tools ⚙️</h3>
 <p align="center">
