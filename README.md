@@ -1,3 +1,5 @@
+# ▎FrontEnd Developer
+
 <div align="center">
   <h3>Hi there 👋</h3>
   
@@ -17,7 +19,20 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
   </p>
+  
+  <br/>
+  <h3>💌 Contact me</h3>
+  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=White"/></a>
 </div>
+
+## ▎📚 Blog For Learning
+
+- ### https://rosejang2000.github.io/
+
+## ▎💌 Email
+
+- ### dev.rosejang@gmail.com
+
 <!--
 **RoseJang2000/RoseJang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
