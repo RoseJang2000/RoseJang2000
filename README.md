@@ -1,15 +1,10 @@
 # ▎FrontEnd Developer
 
-<div align="center">
-  <h3>Hi there 👋</h3>
-  
-  <br/>
   
   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=RoseJang2000&show_icons=true&count_private=true&line_height=24&theme=radical&hide=stars)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseJang2000&layout=compact&theme=radical)
 
-  <br/>
-
-  <h3>🛠 Languages and Tools ⚙️</h3>
+## ▎ 🛠 Tech Stacks
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp 
@@ -19,7 +14,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
   </p>
-</div>
 
 ## ▎📚 Blog For Learning
 
