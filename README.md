@@ -24,11 +24,10 @@
 
 ## ▎📑 Latest Posts
 
-- 
 
- - [3/28 - 브라우저의 렌더링 과정](https://teawon.github.io/cs/init-browser-render/)
- - [3/24 - CSS-in-JS vs CSS](https://teawon.github.io/react/css-methon/)
- - [3/18 - BEM 방법론 - css이름 짓기](https://teawon.github.io/react/bem-method/)
- - [3/12 - Javascript Grammer](https://teawon.github.io/javascript-grammer/)
- - [12/18 - 5장 네트워크 계층(1)](https://teawon.github.io/network/Chapter5-1/)
- - [12/18 - 5장 네트워크 계층(2)](https://teawon.github.io/network/Chapter5-2/)
+ - [4/6 - 포트폴리오 사이트 만들기 - avif, webp로 이미지 최적화하기 (feat. lighthouse)](https://rosejang2000.github.io/solo_project/image-optimize/)
+ - [4/3 - 맨체스터 시티 정보 사이트 만들기 - Google Custom Search API 사용하기](https://rosejang2000.github.io/solo_project/google-custom-search-api/)
+ - [3/18 - \[Main-Project\] useScroll Hook](https://rosejang2000.github.io/team_project/use-scroll/)
+ - [3/6 - \[Main-Project\] ScrollToTop 컴포넌트](https://rosejang2000.github.io/team_project/scroll-to-top/)
+ - [3/3 - \[TypeScript\] any, unknown, void, never](https://rosejang2000.github.io/typescript/type-script-study/)
+ - [3/2 - \[TypeScript\] TypeScript 기본](https://rosejang2000.github.io/typescript/typescript-start/)
