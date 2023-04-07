@@ -37,6 +37,10 @@ preREADME = """
 
 - ### dev.rosejang@gmail.com
 
+## ▎📑 Latest Posts
+
+- 
+
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
