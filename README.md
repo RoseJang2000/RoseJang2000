@@ -1,7 +1,7 @@
-# ▎FrontEnd Developer
 
+# ▎FrontEnd Developer
   
-  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=RoseJang2000&show_icons=true&count_private=true&line_height=24&theme=radical&hide=stars)
+  ![rose's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=RoseJang2000&show_icons=true&count_private=true&line_height=24&theme=radical&hide=stars)
 
 ## ▎ 🛠 Tech Stacks
   <p>
@@ -22,17 +22,9 @@
 
 - ### dev.rosejang@gmail.com
 
-<!--
-**RoseJang2000/RoseJang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [3/28 - 브라우저의 렌더링 과정](https://teawon.github.io/cs/init-browser-render/)
+ - [3/24 - CSS-in-JS vs CSS](https://teawon.github.io/react/css-methon/)
+ - [3/18 - BEM 방법론 - css이름 짓기](https://teawon.github.io/react/bem-method/)
+ - [3/12 - Javascript Grammer](https://teawon.github.io/javascript-grammer/)
+ - [12/18 - 5장 네트워크 계층(1)](https://teawon.github.io/network/Chapter5-1/)
+ - [12/18 - 5장 네트워크 계층(2)](https://teawon.github.io/network/Chapter5-2/)
