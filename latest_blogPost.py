@@ -1,6 +1,6 @@
 import feedparser
 
-blog_url = "https://teawon.github.io/feed.xml"
+blog_url = "https://RoseJang2000.github.io/feed.xml"
 rss_feed = feedparser.parse(blog_url)
 
 MAX_NUM = 5
@@ -39,7 +39,6 @@ preREADME = """
 
 ## ▎📑 Latest Posts
 
-- 
 
 """
 
