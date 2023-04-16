@@ -30,6 +30,14 @@ preREADME = """
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
   </p>
 
+## ▎👤 Profile
+
+- ### https://rosejang-profile.vercel.app/
+
+## ▎🧩 Portfolio
+
+- ### https://rosejang2000-portfolio.vercel.app/
+
 ## ▎📚 Blog For Learning
 
 - ### https://rosejang2000.github.io/
